@@ -31,7 +31,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 # page-URL
-
+https://couchnoemi.github.io/weather-forecast2nd/
 
 # git-hub url
 https://github.com/CouchNoemi/weather-forecast2nd

@@ -73,8 +73,8 @@ function getWeather(name) {
       let historyItem = localStorage.getItem(name);
       document.getElementById("temp1").innerHTML =
         celciusToFahrenheit(data.main.temp) + "°F";
-      document.getElementById("hum1").innerHTML = data.main.humidity + "MPH";
-      document.getElementById("wind1").innerHTML = data.wind.speed + "%";
+      document.getElementById("hum1").innerHTML = data.main.humidity + "%";
+      document.getElementById("wind1").innerHTML = data.wind.speed + "MPH";
 
       // this is my second api
       const {
